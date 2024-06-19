@@ -1,0 +1,42 @@
+Bucuresti;Bucuresti;67
+Alba;Alba Iulia;25
+Arad;Arad;14
+Arges;Pitesti;46
+Bacau;Bacau;63
+Bihor;Oradea;13
+Bistrita-Nasaud;Bistrita;33
+Botosani;Botosani;42
+Braila;Braila;76
+Brasov;Brasov;45
+Buzau;Buzau;65
+Calarasi;Calarasi;68
+Caras-Severin;Resita;16
+Cluj;Cluj-Napoca;24
+Constanta;Constanta;78
+Covasna;Sfantu Gheorghe;54
+Dambovita;Targoviste;56
+Dolj;Craiova;28
+Galati;Galati;74
+Giurgiu;Giurgiu;57
+Gorj;Targu Jiu;27
+Harghita;Miercurea-Ciuc;44
+Hunedoara;Deva;26
+Ialomita;Slobozia;77
+Iasi;Iasi;52
+Ilfov;Chitila;67
+Maramures;Baia Mare;32
+Mehedinti;Drobeta-Turnu Severin;17
+Mures;Targu-Mures;34
+Neamt;Piatra Neamt;53
+Olt;Slatina;37
+Prahova;Ploiesti;66
+Salaj;Zalau;23
+Satu Mare;Satu Mare;22
+Sibiu;Sibiu;35
+Suceava;Suceava;43
+Teleorman;Alexandria;47
+Timis;Timisoara;15
+Tulcea;Tulcea;87
+Vaslui;Vaslui;62
+Valcea;Ramnicu Valcea;36
+Vrancea;Focsani;64

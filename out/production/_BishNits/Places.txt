@@ -1,0 +1,42 @@
+Bucuresti;Bucuresti
+Alba;Alba Iulia
+Arad;Arad
+Arges;Pitesti
+Bacau;Bacau
+Bihor;Oradea
+Bistrita-Nasaud;Bistrita
+Botosani;Botosani
+Braila;Braila
+Brasov;Brasov
+Buzau;Buzau
+Calarasi;Calarasi
+Caras-Severin;Resita
+Cluj;Cluj-Napoca
+Constanta;Constanta
+Covasna;Sfantu Gheorghe
+Dambovita;Targoviste
+Dolj;Craiova
+Galati;Galati
+Giurgiu;Giurgiu
+Gorj;Targu Jiu
+Harghita;Miercurea-Ciuc
+Hunedoara;Deva
+Ialomita;Slobozia
+Iasi;Iasi
+Ilfov;Chitila
+Maramures;Baia Mare
+Mehedinti;Drobeta-Turnu Severin
+Mures;Targu-Mures
+Neamt;Piatra Neamt
+Olt;Slatina
+Prahova;Ploiesti
+Salaj;Zalau
+Satu Mare;Satu Mare
+Sibiu;Sibiu
+Suceava;Suceava
+Teleorman;Alexandria
+Timis;Timisoara
+Tulcea;Tulcea
+Vaslui;Vaslui
+Valcea;Ramnicu Valcea
+Vrancea;Focsani

@@ -1,0 +1,12 @@
+Cigarettes;5
+Clothes;20
+Coffee;4
+Drugs;300
+Jewelry;200
+Laptops;500
+Makeup;26
+Perfumes;60
+Phones;140
+Purses;100
+Shoes;30
+Watches;120
