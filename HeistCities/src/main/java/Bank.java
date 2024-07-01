@@ -85,8 +85,11 @@ public class Bank {
         if (areYouSure) {
             justRobbed = true;
             if (action.doYouFeelLuckyToday(chances)) {
-            //    loot = random.nextInt(2000, 5000);
-                loot = random.nextInt((int) (Character.getTotalMoney()*0.5), Character.getTotalMoney()*2);
+            if (Character.getCash() == 0) {
+                loot = random.nextInt(2000, 5000);
+            } else {
+                loot = random.nextInt((int) (Character.getTotalMoney() * 0.5), Character.getTotalMoney() * 2);
+            }
                 System.out.println();
                 Sounds.playSound("raid");
                 System.out.println("Wow, you managed to rob the bank! You have stolen " + loot + " Euro");

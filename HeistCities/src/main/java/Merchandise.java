@@ -248,7 +248,7 @@ public class Merchandise {
                       break;
                   case 8:
                       System.out.print("You managed to steal " + qty + " bottles of perfume.");
-                      Inventory.inventory.put("Perfume", qty);
+                      Inventory.inventory.put("Perfumes", qty);
                       break;
                   case 9:
                       System.out.print("You managed to steal " + qty + " smartphones.");
